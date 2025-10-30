@@ -22,8 +22,8 @@ A simple web application with:
 ---
 
 ## 🗃️ Database Setup
-1. Create a new database named `task_db` in phpMyAdmin.
-2. Import the included SQL file (`task_db.sql`).
+1. Create a new database named `task_project` in phpMyAdmin.
+2. Import the included SQL file (`database/sql/task_project.sql`).
 3. Update `.env` file:
 
 
